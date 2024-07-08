@@ -1,5 +1,11 @@
 # @farmfe/runtime-plugin-hmr
 
+## 3.5.3
+
+### Patch Changes
+
+- 89c40302: Support disable overlay
+
 ## 3.5.2
 
 ### Patch Changes

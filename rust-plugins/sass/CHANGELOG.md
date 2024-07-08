@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.0
+
+### Minor Changes
+
+- 966e2507: Bump version cause core changed
+
 ## 1.0.5
 
 ### Patch Changes

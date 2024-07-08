@@ -1,5 +1,15 @@
 # @farmfe/js-plugin-postcss
 
+## 2.0.0
+
+### Patch Changes
+
+- Updated dependencies [ce30b785]
+- Updated dependencies [966e2507]
+- Updated dependencies [b18ca7fe]
+- Updated dependencies [89c40302]
+  - @farmfe/core@1.3.0
+
 ## 1.7.0
 
 ### Patch Changes
